@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-12-17T02:33:22.000Z</updated>
+  <updated>2018-08-22T14:07:06.454Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,19 +17,20 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2017/12/17/hello-world/"/>
-    <id>http://yoursite.com/2017/12/17/hello-world/</id>
-    <published>2017-12-17T02:33:22.000Z</published>
-    <updated>2017-12-17T02:33:22.000Z</updated>
+    <title>Hello Blog</title>
+    <link href="http://yoursite.com/2018/08/22/hello-world/"/>
+    <id>http://yoursite.com/2018/08/22/hello-world/</id>
+    <published>2018-08-22T14:05:00.000Z</published>
+    <updated>2018-08-22T14:07:06.454Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>努力克服大脑中袭来的懒惰，打开音乐播放器，调整好状态来写这篇拖延了一年之久的文章，没有错，自从博客搭建完成后，这一年来我没有产出一篇文章，仔细想想，恐怕自己的自控力已经跌破了基准值。完成这些文章，就算是对拖延症大魔王发起的第一次挑战吧。</p><p>就好像程序员接触新语言的时候第一步要输出一个<code>Hello World</code>一样，开始一件新的事情的时候，做一个小小的仪式，内心也会严肃起来吧。仍然记得一年之前在查找关于搭建博客的资料的时候无意中看到一篇叫做《我为什么要写博客》的文章，详细的内容已经记不大清楚了，只留下了一丝丝感动和敬重。之后我也多次关注过一些人的博客，有的是翻译文章，还有些是关于学习的总结，也是因此坚定了要写一些东西和其他人分享的想法。</p><p>在搭建独立的个人博客之前，大学期间也曾在Lofter上发过当时学习photoshop临摹的一些小图标，也经常使用豆瓣记录自己读过的书和看过的电影，不过从未想过自己在网络上输出的这点信息会有多少人留意，毕竟网络这么大。在一次外出旅行之后，因为拍摄了不少照片又无人可分享，就在豆瓣上用照片堆砌了一篇图文，没想到不久之后会被越来越多的人浏览、留言、收藏。大概就是被人认可了吧，觉得特别开心，意识到自己可以把喜欢的东西分享给更多的人，分享自己的想法。</p><p>渐渐萌生了想要在网络中拥有自己的一丝空间的想法，独立于其他平台之外的小空间，最后决定在Github上搭建一个静态博客。尽管还没有考虑好下一步要怎么做，不过只要在路上就好。</p><p>就是这样，聆空的博客诞生了，发布这篇文章的时间就是skyorbit.xyz的生日🎉🎉🎉</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;p&gt;努力克服大脑中袭来的懒惰，打开音乐播放器，调整好状态来写这篇拖延了一年之久的文章，没有错，自从博客搭建完成后，这一年来我没有产出一篇文章，仔细想想，恐怕自己的自控力已经跌破了基准值。完成这些文章，就算是对拖延症大魔王发起的第一次挑战吧。&lt;/p&gt;
+&lt;p&gt;就好像程序员接触新语言
       
     
     </summary>
